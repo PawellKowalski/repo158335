@@ -1,0 +1,11 @@
+/*!
+
+\page opis Opis sposobu działania funkcji
+
+\section funkcja Wzór
+
+Wartość \f$ e^x \f$ jest wyliczona na podstawie pierwszych 10 wyrazów 
+szeregu \f$ e^x=\sum_{k=0}^{\infty}\frac{x^k}{k!} \f$
+
+	\image html p.png "Przykładowy wykres" width=30%
+*/
